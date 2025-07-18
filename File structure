@@ -1,0 +1,16 @@
+
+zomato-rating-predictor/
+│
+├── app.py                      # Main application file (renamed from app.ipy)
+├── zomato_rating_mode_1        # ML model file (from your code)
+├── label_encoders.pk_1         # Label encoders file (from your code)
+│
+├── static/
+│   └── styles.css              # CSS styles (optional)
+│
+├── templates/
+│   ├── index.html              # Input form page
+│   └── result.html             # Prediction results page
+│
+├── requirements.txt            # Python dependencies
+└── README.md                   # Project documentation
